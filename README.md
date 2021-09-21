@@ -1,2 +1,2 @@
 # GAFTECH
-Payment gateway
+Global Financial Technology Leads Bridge System
