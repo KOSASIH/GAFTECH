@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to GAFTECH 
+( Global Financial Technology ) 
 
 You can use the [editor on GitHub](https://github.com/KOSASIH/GAFTECH/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
